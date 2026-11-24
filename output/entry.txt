@@ -1,0 +1,3 @@
+Breakpoint set at three
+The log says nothing at all
+The bug was my code
